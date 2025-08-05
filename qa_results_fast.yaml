@@ -1,0 +1,75 @@
+- answer: 'Retrieved note: Chernobyl Disaster'
+  expected_note: Chernobyl Disaster
+  question: What caused the Chernobyl nuclear disaster?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: 'Retrieved note: Chernobyl Disaster'
+  expected_note: Chernobyl Disaster
+  question: When did the Chernobyl disaster occur?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: 'Retrieved note: Chernobyl Disaster'
+  expected_note: Chernobyl Disaster
+  question: What were the immediate effects of the Chernobyl disaster?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: 'Retrieved note: Chernobyl Disaster'
+  expected_note: Chernobyl Disaster
+  question: How did the Chernobyl disaster affect the environment?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: 'Retrieved note: Chernobyl Disaster'
+  expected_note: Chernobyl Disaster
+  question: What safety measures were implemented after Chernobyl?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: 'Retrieved note: Periodic Table'
+  expected_note: Periodic Table
+  question: Who created the first periodic table?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: 'Retrieved note: Periodic Table'
+  expected_note: Periodic Table
+  question: How are elements organized in the periodic table?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: 'Retrieved note: Periodic Table'
+  expected_note: Periodic Table
+  question: What are the main groups in the periodic table?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: 'Retrieved note: Periodic Table'
+  expected_note: Periodic Table
+  question: What is the atomic number and what does it represent?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: 'Retrieved note: Periodic Table'
+  expected_note: Periodic Table
+  question: How do elements in the same group behave similarly?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: 'Retrieved note: Voyager Program'
+  expected_note: Voyager Program
+  question: What was the primary mission of the Voyager spacecraft?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program
+- answer: 'Retrieved note: Voyager Program'
+  expected_note: Voyager Program
+  question: When were the Voyager spacecraft launched?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program
+- answer: 'Retrieved note: Voyager Program'
+  expected_note: Voyager Program
+  question: What is the Golden Record and what does it contain?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program
+- answer: 'Retrieved note: Voyager Program'
+  expected_note: Voyager Program
+  question: How far have the Voyager spacecraft traveled?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program
+- answer: 'Retrieved note: Voyager Program'
+  expected_note: Voyager Program
+  question: What instruments do the Voyager spacecraft carry?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program

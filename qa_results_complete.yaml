@@ -1,0 +1,180 @@
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Chernobyl disaster was a nuclear accident that occurred on April 26, 1986, at\
+    \ the Chernobyl Nuclear Power Plant \nin Pripyat, Ukraine, then part of the Soviet\
+    \ Union. It is considered the worst nuclear power plant disaster in history.\n\
+    \nThe disaster was caused by a combination of design flaws in the RBMK reactor\
+    \ and operator errors during a safety test. \nThe test was designed to simulate\
+    \ an electrical power outage to test the emergency cooling system.\n\nThe immediate\
+    \ effects included the deaths..."
+  expected_note: Chernobyl Disaster
+  question: What caused the Chernobyl nuclear disaster?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Chernobyl disaster was a nuclear accident that occurred on April 26, 1986, at\
+    \ the Chernobyl Nuclear Power Plant \nin Pripyat, Ukraine, then part of the Soviet\
+    \ Union. It is considered the worst nuclear power plant disaster in history.\n\
+    \nThe disaster was caused by a combination of design flaws in the RBMK reactor\
+    \ and operator errors during a safety test. \nThe test was designed to simulate\
+    \ an electrical power outage to test the emergency cooling system.\n\nThe immediate\
+    \ effects included the deaths..."
+  expected_note: Chernobyl Disaster
+  question: When did the Chernobyl disaster occur?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Chernobyl disaster was a nuclear accident that occurred on April 26, 1986, at\
+    \ the Chernobyl Nuclear Power Plant \nin Pripyat, Ukraine, then part of the Soviet\
+    \ Union. It is considered the worst nuclear power plant disaster in history.\n\
+    \nThe disaster was caused by a combination of design flaws in the RBMK reactor\
+    \ and operator errors during a safety test. \nThe test was designed to simulate\
+    \ an electrical power outage to test the emergency cooling system.\n\nThe immediate\
+    \ effects included the deaths..."
+  expected_note: Chernobyl Disaster
+  question: What were the immediate effects of the Chernobyl disaster?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Chernobyl disaster was a nuclear accident that occurred on April 26, 1986, at\
+    \ the Chernobyl Nuclear Power Plant \nin Pripyat, Ukraine, then part of the Soviet\
+    \ Union. It is considered the worst nuclear power plant disaster in history.\n\
+    \nThe disaster was caused by a combination of design flaws in the RBMK reactor\
+    \ and operator errors during a safety test. \nThe test was designed to simulate\
+    \ an electrical power outage to test the emergency cooling system.\n\nThe immediate\
+    \ effects included the deaths..."
+  expected_note: Chernobyl Disaster
+  question: How did the Chernobyl disaster affect the environment?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Chernobyl disaster was a nuclear accident that occurred on April 26, 1986, at\
+    \ the Chernobyl Nuclear Power Plant \nin Pripyat, Ukraine, then part of the Soviet\
+    \ Union. It is considered the worst nuclear power plant disaster in history.\n\
+    \nThe disaster was caused by a combination of design flaws in the RBMK reactor\
+    \ and operator errors during a safety test. \nThe test was designed to simulate\
+    \ an electrical power outage to test the emergency cooling system.\n\nThe immediate\
+    \ effects included the deaths..."
+  expected_note: Chernobyl Disaster
+  question: What safety measures were implemented after Chernobyl?
+  retrieved_note_id: 03a95689-3acc-4980-8633-1655991bb5f4
+  retrieved_note_title: Chernobyl Disaster
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ periodic table is a tabular arrangement of chemical elements, organized by their\
+    \ atomic number, electron configuration, \nand recurring chemical properties.\
+    \ It was first created by Russian chemist Dmitri Mendeleev in 1869.\n\nElements\
+    \ in the periodic table are organized in order of increasing atomic number, which\
+    \ represents the number of protons \nin an atom's nucleus. The table is arranged\
+    \ in rows (periods) and columns (groups or families).\n\nThe main groups in the\
+    \ periodic table include:\n- Gro..."
+  expected_note: Periodic Table
+  question: Who created the first periodic table?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ periodic table is a tabular arrangement of chemical elements, organized by their\
+    \ atomic number, electron configuration, \nand recurring chemical properties.\
+    \ It was first created by Russian chemist Dmitri Mendeleev in 1869.\n\nElements\
+    \ in the periodic table are organized in order of increasing atomic number, which\
+    \ represents the number of protons \nin an atom's nucleus. The table is arranged\
+    \ in rows (periods) and columns (groups or families).\n\nThe main groups in the\
+    \ periodic table include:\n- Gro..."
+  expected_note: Periodic Table
+  question: How are elements organized in the periodic table?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ periodic table is a tabular arrangement of chemical elements, organized by their\
+    \ atomic number, electron configuration, \nand recurring chemical properties.\
+    \ It was first created by Russian chemist Dmitri Mendeleev in 1869.\n\nElements\
+    \ in the periodic table are organized in order of increasing atomic number, which\
+    \ represents the number of protons \nin an atom's nucleus. The table is arranged\
+    \ in rows (periods) and columns (groups or families).\n\nThe main groups in the\
+    \ periodic table include:\n- Gro..."
+  expected_note: Periodic Table
+  question: What are the main groups in the periodic table?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ periodic table is a tabular arrangement of chemical elements, organized by their\
+    \ atomic number, electron configuration, \nand recurring chemical properties.\
+    \ It was first created by Russian chemist Dmitri Mendeleev in 1869.\n\nElements\
+    \ in the periodic table are organized in order of increasing atomic number, which\
+    \ represents the number of protons \nin an atom's nucleus. The table is arranged\
+    \ in rows (periods) and columns (groups or families).\n\nThe main groups in the\
+    \ periodic table include:\n- Gro..."
+  expected_note: Periodic Table
+  question: What is the atomic number and what does it represent?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ periodic table is a tabular arrangement of chemical elements, organized by their\
+    \ atomic number, electron configuration, \nand recurring chemical properties.\
+    \ It was first created by Russian chemist Dmitri Mendeleev in 1869.\n\nElements\
+    \ in the periodic table are organized in order of increasing atomic number, which\
+    \ represents the number of protons \nin an atom's nucleus. The table is arranged\
+    \ in rows (periods) and columns (groups or families).\n\nThe main groups in the\
+    \ periodic table include:\n- Gro..."
+  expected_note: Periodic Table
+  question: How do elements in the same group behave similarly?
+  retrieved_note_id: eadbfbcd-ebb0-4ec5-8917-44c0e58fea3e
+  retrieved_note_title: Periodic Table
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Voyager program consists of two robotic probes, Voyager 1 and Voyager 2, launched\
+    \ by NASA in 1977. \nThe primary mission was to study the outer planets of our\
+    \ solar system.\n\nVoyager 1 was launched on September 5, 1977, and Voyager 2\
+    \ was launched on August 20, 1977. \nBoth spacecraft carried identical scientific\
+    \ instruments including cameras, spectrometers, and magnetometers.\n\nThe Golden\
+    \ Record is a phonograph record included aboard both Voyager spacecraft. It contains\
+    \ sounds and images \nselec..."
+  expected_note: Voyager Program
+  question: What was the primary mission of the Voyager spacecraft?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Voyager program consists of two robotic probes, Voyager 1 and Voyager 2, launched\
+    \ by NASA in 1977. \nThe primary mission was to study the outer planets of our\
+    \ solar system.\n\nVoyager 1 was launched on September 5, 1977, and Voyager 2\
+    \ was launched on August 20, 1977. \nBoth spacecraft carried identical scientific\
+    \ instruments including cameras, spectrometers, and magnetometers.\n\nThe Golden\
+    \ Record is a phonograph record included aboard both Voyager spacecraft. It contains\
+    \ sounds and images \nselec..."
+  expected_note: Voyager Program
+  question: When were the Voyager spacecraft launched?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Voyager program consists of two robotic probes, Voyager 1 and Voyager 2, launched\
+    \ by NASA in 1977. \nThe primary mission was to study the outer planets of our\
+    \ solar system.\n\nVoyager 1 was launched on September 5, 1977, and Voyager 2\
+    \ was launched on August 20, 1977. \nBoth spacecraft carried identical scientific\
+    \ instruments including cameras, spectrometers, and magnetometers.\n\nThe Golden\
+    \ Record is a phonograph record included aboard both Voyager spacecraft. It contains\
+    \ sounds and images \nselec..."
+  expected_note: Voyager Program
+  question: What is the Golden Record and what does it contain?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Voyager program consists of two robotic probes, Voyager 1 and Voyager 2, launched\
+    \ by NASA in 1977. \nThe primary mission was to study the outer planets of our\
+    \ solar system.\n\nVoyager 1 was launched on September 5, 1977, and Voyager 2\
+    \ was launched on August 20, 1977. \nBoth spacecraft carried identical scientific\
+    \ instruments including cameras, spectrometers, and magnetometers.\n\nThe Golden\
+    \ Record is a phonograph record included aboard both Voyager spacecraft. It contains\
+    \ sounds and images \nselec..."
+  expected_note: Voyager Program
+  question: How far have the Voyager spacecraft traveled?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program
+- answer: "Based on the retrieved note, here is the relevant information:\n\n\nThe\
+    \ Voyager program consists of two robotic probes, Voyager 1 and Voyager 2, launched\
+    \ by NASA in 1977. \nThe primary mission was to study the outer planets of our\
+    \ solar system.\n\nVoyager 1 was launched on September 5, 1977, and Voyager 2\
+    \ was launched on August 20, 1977. \nBoth spacecraft carried identical scientific\
+    \ instruments including cameras, spectrometers, and magnetometers.\n\nThe Golden\
+    \ Record is a phonograph record included aboard both Voyager spacecraft. It contains\
+    \ sounds and images \nselec..."
+  expected_note: Voyager Program
+  question: What instruments do the Voyager spacecraft carry?
+  retrieved_note_id: 0811696c-2802-405e-9571-269050915896
+  retrieved_note_title: Voyager Program
