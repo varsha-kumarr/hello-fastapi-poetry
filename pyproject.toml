@@ -16,6 +16,12 @@ sqlalchemy = "^2.0.41"
 asyncpg = "^0.30.0"
 greenlet = "^3.2.3"
 python-dotenv = "^1.1.1"
+wikipedia = "^1.4.0"
+pyyaml = "^6.0.2"
+ollama = "^0.5.1"
+pgvector = "^0.2.5"
+langchain = "^0.2.0"
+langchain-text-splitters = "^0.2.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]

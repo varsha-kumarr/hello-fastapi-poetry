@@ -6,7 +6,6 @@ class Settings(BaseSettings):
     db_username: str
     db_password: str
     db_database: str
-    api_base_url: str = "http://localhost:2005"
 
     class Config:
         env_file = ".env"
